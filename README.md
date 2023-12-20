@@ -1,41 +1,11 @@
 
-<style>
-.Title {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-  text-shadow: 3px 0px orange;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-p  {
-  color: white;
-  font-family: Comic Sans MS;
-  font-size: 160%;
-}
-h2{
-    color: white;
-    font-family: Comic Sans MS;
-}
-h3{
-    color: white;
-    font-family: Comic Sans Ms;
-}
-.white{
-    color:white;
-}
-.orange{
-    color: orange;
-}
-.blue{
-    color: blue;
-}
-</style>
-</head>
 
-<h1 class="Title">Репозиторий<br> с наработками по кейсу<br>"Нейротех"</h1>
-<p> Кидайте все идеи, какие есть по хакатону.
+<font color="white"><h1 style="text-align: center;font-family: Georgia; font-color: orange;
+font-size: 36px;
+  background: -webkit-linear-gradient(#ff9933, #3333ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">Репозиторий<br> с наработками по кейсу<br>"Нейротех"</h1>
+<p style="font-family: Courier; font-size: 150%"> Кидайте все идеи, какие есть по хакатону.</p>
 
 
 <h2>Планируемые фичи:</h2>
@@ -44,9 +14,8 @@ h3{
 3. Создание статистики настроения по времени в виде диаграммы <br>
 4. Дневник настроения <br>
 5. Плейлисты с треками(по настроению, усталости, время дня(утро, сон)) <br>
-
-
-<h2 class="white">Цветовая гамма:
-<span class="orange"> Оранжевый </span>\<span class="blue"> Cиний </span> </h2>
- <br>
-</h3>
+<h2> Цветовая гамма:</h2>
+</font>
+<h2 style="background: -webkit-linear-gradient(90deg, #ff9933, #3333ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;"> Синий/Оранжевый </h2>
