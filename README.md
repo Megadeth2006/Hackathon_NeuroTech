@@ -1,5 +1,4 @@
-<html>
-<head>
+
 <style>
 .Title {
   color: blue;
@@ -34,8 +33,7 @@ h3{
 }
 </style>
 </head>
-<body>
-<link href="style.css">
+
 <h1 class="Title">Репозиторий<br> с наработками по кейсу<br>"Нейротех"</h1>
 <p> Кидайте все идеи, какие есть по хакатону.
 
@@ -52,5 +50,3 @@ h3{
 <span class="orange"> Оранжевый </span>\<span class="blue"> Cиний </span> </h2>
  <br>
 </h3>
-</body>
-</html>
