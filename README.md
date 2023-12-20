@@ -1,21 +1,30 @@
 
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="1.gif" alt="Logo" width="100" height="80">
+  </a>
 
-<font color="white"><h1 style="text-align: center;font-family: Georgia; font-color: orange;
-font-size: 36px;
-  background: -webkit-linear-gradient(#ff9933, #3333ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">Репозиторий<br> с наработками по кейсу<br>"Нейротех"</h1>
-<p style="font-family: Courier; font-size: 150%"> Кидайте все идеи, какие есть по хакатону.</p>
+  <h3 align="center">Кейс от Нейротеха</h3>
+  <p align="center">
+    Все нужные ссылки:
+    <br />
+    <a href="https://sdk.brainbit.com/">Документация по BrainBit</a>
+    ·
+    <a href="https://vk.com/open_cybergarden?from=quick_search">ВК-группа CyberGarden</a>
+    ·
+    <a href="https://brainbit.com/ru">Сайт BrainBit</a>
+  </p>
+</div>
+
+<p align="center">
+Кидайте все идеи, какие есть по хакатону.
 
 
-<h2>Планируемые фичи:</h2>
-<h3> 1. Смена дизайна при смене настроения <br>
-2. Встроенный медиаплеер для прослушивания аудио из локального хранилища (лучше, чтобы была интеграция с онлайн-сервисом по возможности)<br>
-3. Создание статистики настроения по времени в виде диаграммы <br>
-4. Дневник настроения <br>
-5. Плейлисты с треками(по настроению, усталости, время дня(утро, сон)) <br>
-<h2> Цветовая гамма:</h2>
-</font>
-<h2 style="background: -webkit-linear-gradient(90deg, #ff9933, #3333ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;"> Синий/Оранжевый </h2>
+## Планируемые фичи:
+- Смена дизайна при смене настроения 
+- Встроенный медиаплеер для прослушивания аудио из локального хранилища (лучше, чтобы была интеграция с онлайн-сервисом по возможности)
+- Создание статистики настроения по времени в виде диаграммы 
+- Дневник настроения 
+- Плейлисты с треками(по настроению, усталости, время дня(утро, сон)) 
+## Цветовая гамма: Синий/Оранжевый 
+
