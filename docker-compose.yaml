@@ -1,0 +1,24 @@
+services:
+  backend:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - database
+    networks:
+      - proxynet
+    
+  database:
+    image: postgres
+    ports:
+      - "5432:5432"
+    restart: always
+    environment:
+      POSTGRES_USER: sammy
+      POSTGRES_PASSWORD: Xn~Izpb91iEckYPPuC@umjhJ
+      POSTGRES_DB: shsn
+    networks:
+      - proxynet
+networks:
+  proxynet:
+    name: localhost
